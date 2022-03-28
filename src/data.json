@@ -1,0 +1,602 @@
+[
+  {
+    "id": "5c9e17581b2804c21c89f7b7",
+    "campaign_name": "CAXT",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "AUTOGRATE"
+  },
+  {
+    "id": "5c9e175817493f1361a22519",
+    "campaign_name": "UNEEQ",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "VURBO"
+  },
+  {
+    "id": "5c9e1758afa78406b10414d6",
+    "campaign_name": "JIMBIES",
+    "type_of": "PUSH EMAIL",
+    "company_name": "PANZENT"
+  },
+  {
+    "id": "5c9e1758389a61d6709ee2eb",
+    "campaign_name": "ETERNIS",
+    "type_of": "PUSH EMAIL",
+    "company_name": "ZORROMOP"
+  },
+  {
+    "id": "5c9e1758ce8c60cd36c93bd6",
+    "campaign_name": "CINESANCT",
+    "type_of": "PUSH EMAIL",
+    "company_name": "GENMEX"
+  },
+  {
+    "id": "5c9e1758df67f2b42fc900eb",
+    "campaign_name": "PEARLESEX",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "LIQUICOM"
+  },
+  {
+    "id": "5c9e175886ce38acfb323e7c",
+    "campaign_name": "AUSTECH",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "GROK"
+  },
+  {
+    "id": "5c9e17586c3f18b337165ee0",
+    "campaign_name": "KROG",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "ONTAGENE"
+  },
+  {
+    "id": "5c9e1758fe2fbbb001921473",
+    "campaign_name": "VIRXO",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "MONDICIL"
+  },
+  {
+    "id": "5c9e1758fe61db8d481c2c3c",
+    "campaign_name": "CYTREK",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "GRONK"
+  },
+  {
+    "id": "5c9e175853aa20f34490bcef",
+    "campaign_name": "QUARMONY",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "RECRITUBE"
+  },
+  {
+    "id": "5c9e17583df99715bde886a5",
+    "campaign_name": "WAAB",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "SUNCLIPSE"
+  },
+  {
+    "id": "5c9e1758a70efd94b9c32e31",
+    "campaign_name": "NAMEBOX",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "IMMUNICS"
+  },
+  {
+    "id": "5c9e1758324e2a995015e41c",
+    "campaign_name": "RODEMCO",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "MOREGANIC"
+  },
+  {
+    "id": "5c9e175827b25ab774c2b5b9",
+    "campaign_name": "STRALOY",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "TUBESYS"
+  },
+  {
+    "id": "5c9e17586b3ed54ea0fe712f",
+    "campaign_name": "MATRIXITY",
+    "type_of": "CONNECTOR",
+    "company_name": "DYNO"
+  },
+  {
+    "id": "5c9e1758e8cefaac38040adc",
+    "campaign_name": "FLOTONIC",
+    "type_of": "CONNECTOR",
+    "company_name": "DIGIGENE"
+  },
+  {
+    "id": "5c9e1758dee5bd6545c27d6d",
+    "campaign_name": "GRACKER",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "EXTRAWEAR"
+  },
+  {
+    "id": "5c9e1758cb40285b3dc182fc",
+    "campaign_name": "ENVIRE",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "APEXIA"
+  },
+  {
+    "id": "5c9e17588958eb397ab2b70c",
+    "campaign_name": "HAIRPORT",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "HOPELI"
+  },
+  {
+    "id": "5c9e1758581b4fc48f12d0d2",
+    "campaign_name": "DREAMIA",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "INSURON"
+  },
+  {
+    "id": "5c9e1758ed254b1df5d0b2cb",
+    "campaign_name": "ZILLIDIUM",
+    "type_of": "PUSH EMAIL",
+    "company_name": "ZAPHIRE"
+  },
+  {
+    "id": "5c9e1758dd6b70d9d1449614",
+    "campaign_name": "CINCYR",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "EXOSTREAM"
+  },
+  {
+    "id": "5c9e17580dfe4c528028b5e9",
+    "campaign_name": "UNISURE",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "CANDECOR"
+  },
+  {
+    "id": "5c9e175854c1dfd493d91517",
+    "campaign_name": "CONJURICA",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "DIGIQUE"
+  },
+  {
+    "id": "5c9e1758fe15926a632464bf",
+    "campaign_name": "GEEKOSIS",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "RETRACK"
+  },
+  {
+    "id": "5c9e17588e11b228bef94eec",
+    "campaign_name": "CYTRAK",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "RUBADUB"
+  },
+  {
+    "id": "5c9e17589991b1bfe28bcbb5",
+    "campaign_name": "DARWINIUM",
+    "type_of": "PUSH EMAIL",
+    "company_name": "GENEKOM"
+  },
+  {
+    "id": "5c9e17589ed7bdd7e855c4ee",
+    "campaign_name": "GEEKNET",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "POLARIUM"
+  },
+  {
+    "id": "5c9e1758de09c343268cc259",
+    "campaign_name": "ZENTHALL",
+    "type_of": "PUSH EMAIL",
+    "company_name": "DIGINETIC"
+  },
+  {
+    "id": "5c9e1758b66c2854bdc1c667",
+    "campaign_name": "QABOOS",
+    "type_of": "PUSH EMAIL",
+    "company_name": "BITENDREX"
+  },
+  {
+    "id": "5c9e17586f4eee8dd6924b91",
+    "campaign_name": "UNCORP",
+    "type_of": "CONNECTOR",
+    "company_name": "UTARIAN"
+  },
+  {
+    "id": "5c9e1758e92caabcf02cabbc",
+    "campaign_name": "VENDBLEND",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "COREPAN"
+  },
+  {
+    "id": "5c9e175835e8a180610ea709",
+    "campaign_name": "ANIMALIA",
+    "type_of": "PUSH EMAIL",
+    "company_name": "ZINCA"
+  },
+  {
+    "id": "5c9e1758e194012362db04e3",
+    "campaign_name": "RENOVIZE",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "ANIVET"
+  },
+  {
+    "id": "5c9e1758ad0cc64fddff0213",
+    "campaign_name": "EXOTERIC",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "VISALIA"
+  },
+  {
+    "id": "5c9e1758b4b49ede10d82e0b",
+    "campaign_name": "CEPRENE",
+    "type_of": "CONNECTOR",
+    "company_name": "FLUMBO"
+  },
+  {
+    "id": "5c9e17588e3b16fdd14b784c",
+    "campaign_name": "EXOSIS",
+    "type_of": "PUSH EMAIL",
+    "company_name": "APPLICA"
+  },
+  {
+    "id": "5c9e175852a9aa24af7e107d",
+    "campaign_name": "MUSAPHICS",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "TERRAGO"
+  },
+  {
+    "id": "5c9e17586ccdae3aef056278",
+    "campaign_name": "ZILPHUR",
+    "type_of": "PUSH EMAIL",
+    "company_name": "INVENTURE"
+  },
+  {
+    "id": "5c9e1758258e381ff1dd2240",
+    "campaign_name": "EXOSPACE",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "BALOOBA"
+  },
+  {
+    "id": "5c9e1758132044961277a1c1",
+    "campaign_name": "NEUROCELL",
+    "type_of": "PUSH EMAIL",
+    "company_name": "GEOFORMA"
+  },
+  {
+    "id": "5c9e1758919482dc7f75951e",
+    "campaign_name": "SPORTAN",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "GINKLE"
+  },
+  {
+    "id": "5c9e1758a538b91a660aac04",
+    "campaign_name": "ZILIDIUM",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "PHARMACON"
+  },
+  {
+    "id": "5c9e1758312824d349a60552",
+    "campaign_name": "ACLIMA",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "CENTREXIN"
+  },
+  {
+    "id": "5c9e175837b826a1cc0d3e8a",
+    "campaign_name": "NAMEGEN",
+    "type_of": "PUSH EMAIL",
+    "company_name": "STOCKPOST"
+  },
+  {
+    "id": "5c9e175854750836562d2c59",
+    "campaign_name": "EVENTIX",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "SNIPS"
+  },
+  {
+    "id": "5c9e1758c14182a5e5b8a5f0",
+    "campaign_name": "ZILLAN",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "BLUEGRAIN"
+  },
+  {
+    "id": "5c9e1758bffd06cd48a24d91",
+    "campaign_name": "TSUNAMIA",
+    "type_of": "PUSH EMAIL",
+    "company_name": "SONGBIRD"
+  },
+  {
+    "id": "5c9e1758130c822144809b68",
+    "campaign_name": "NETILITY",
+    "type_of": "CONNECTOR",
+    "company_name": "IRACK"
+  },
+  {
+    "id": "5c9e175800e19fced45057b6",
+    "campaign_name": "GRUPOLI",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "PARAGONIA"
+  },
+  {
+    "id": "5c9e1758d8f7201e67160142",
+    "campaign_name": "FLEXIGEN",
+    "type_of": "PUSH EMAIL",
+    "company_name": "GEOFARM"
+  },
+  {
+    "id": "5c9e1758c1af203ba696ab52",
+    "campaign_name": "HANDSHAKE",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "QUILTIGEN"
+  },
+  {
+    "id": "5c9e1758e5ac85ef40eb007a",
+    "campaign_name": "SYNTAC",
+    "type_of": "PUSH EMAIL",
+    "company_name": "MARQET"
+  },
+  {
+    "id": "5c9e1758b413c39f8ab2e647",
+    "campaign_name": "ZIGGLES",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "KINETICA"
+  },
+  {
+    "id": "5c9e1758824c3cf6d498ab68",
+    "campaign_name": "DIGIGEN",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "ASSURITY"
+  },
+  {
+    "id": "5c9e1758c4151b8be0fccbc9",
+    "campaign_name": "KONGENE",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "PORTALINE"
+  },
+  {
+    "id": "5c9e175811f9cdec16c1d2c5",
+    "campaign_name": "STROZEN",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "QUALITERN"
+  },
+  {
+    "id": "5c9e17582a91d25a81554df2",
+    "campaign_name": "MEDALERT",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "PROTODYNE"
+  },
+  {
+    "id": "5c9e175878e49232c99faf5a",
+    "campaign_name": "QUAILCOM",
+    "type_of": "CONNECTOR",
+    "company_name": "NEXGENE"
+  },
+  {
+    "id": "5c9e17582413db9f7b918dfa",
+    "campaign_name": "KIOSK",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "OVERFORK"
+  },
+  {
+    "id": "5c9e17586a0b06e8fd4e15d9",
+    "campaign_name": "SHADEASE",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "ZANITY"
+  },
+  {
+    "id": "5c9e17581bd25bbbe7100ef6",
+    "campaign_name": "EWAVES",
+    "type_of": "PUSH EMAIL",
+    "company_name": "BULLZONE"
+  },
+  {
+    "id": "5c9e17580e0bfcefcaf5d53a",
+    "campaign_name": "SLOFAST",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "GEEKETRON"
+  },
+  {
+    "id": "5c9e1758543297e0cb26f104",
+    "campaign_name": "GLEAMINK",
+    "type_of": "CONNECTOR",
+    "company_name": "BITREX"
+  },
+  {
+    "id": "5c9e17587bd5186e8c9f82d3",
+    "campaign_name": "XYMONK",
+    "type_of": "CONNECTOR",
+    "company_name": "LOTRON"
+  },
+  {
+    "id": "5c9e1758b19762b6b1908d1b",
+    "campaign_name": "ILLUMITY",
+    "type_of": "CONNECTOR",
+    "company_name": "IDEGO"
+  },
+  {
+    "id": "5c9e17582189c965d9cb877b",
+    "campaign_name": "ENTALITY",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "ENERFORCE"
+  },
+  {
+    "id": "5c9e17580bf3eba0d3ed682d",
+    "campaign_name": "QUINEX",
+    "type_of": "PUSH EMAIL",
+    "company_name": "INFOTRIPS"
+  },
+  {
+    "id": "5c9e17586da744571cb58b06",
+    "campaign_name": "COMTOUR",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "JOVIOLD"
+  },
+  {
+    "id": "5c9e1758c54a5e229dc2e9fe",
+    "campaign_name": "BLANET",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "SYNKGEN"
+  },
+  {
+    "id": "5c9e1758e3f8783fdb416e3f",
+    "campaign_name": "JETSILK",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "PLASMOSIS"
+  },
+  {
+    "id": "5c9e1758fa610e1b28f695b5",
+    "campaign_name": "EARTHPLEX",
+    "type_of": "PUSH EMAIL",
+    "company_name": "OPTIQUE"
+  },
+  {
+    "id": "5c9e17589e8349a9bc5a90cd",
+    "campaign_name": "INTERFIND",
+    "type_of": "PUSH EMAIL",
+    "company_name": "AQUOAVO"
+  },
+  {
+    "id": "5c9e1758973509cb15ae10f0",
+    "campaign_name": "EXTRAGENE",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "MOMENTIA"
+  },
+  {
+    "id": "5c9e175860ce14779b799eac",
+    "campaign_name": "ACRUEX",
+    "type_of": "PUSH EMAIL",
+    "company_name": "PUSHCART"
+  },
+  {
+    "id": "5c9e17583e6026eac3ee9690",
+    "campaign_name": "KIDSTOCK",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "DYMI"
+  },
+  {
+    "id": "5c9e175871b6e7583d60b8d8",
+    "campaign_name": "PROSELY",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "VALREDA"
+  },
+  {
+    "id": "5c9e175846461b0fdf38f64a",
+    "campaign_name": "GEEKY",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "PYRAMIS"
+  },
+  {
+    "id": "5c9e1758e8e7f4f95b2eb1d7",
+    "campaign_name": "EXOSWITCH",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "NURALI"
+  },
+  {
+    "id": "5c9e1758613bef07f938da00",
+    "campaign_name": "FIBEROX",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "NURPLEX"
+  },
+  {
+    "id": "5c9e1758b87df62b38dcb202",
+    "campaign_name": "BOLAX",
+    "type_of": "PUSH EMAIL",
+    "company_name": "AQUASURE"
+  },
+  {
+    "id": "5c9e1758da00bab51ebadb9f",
+    "campaign_name": "GENMOM",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "UNDERTAP"
+  },
+  {
+    "id": "5c9e175888a2dce7dcceb323",
+    "campaign_name": "HOTCAKES",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "ZENTIME"
+  },
+  {
+    "id": "5c9e1758d16c05a4c1a38437",
+    "campaign_name": "MARKETOID",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "COMCUR"
+  },
+  {
+    "id": "5c9e1758476b6b5d42e97fc8",
+    "campaign_name": "KNEEDLES",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "ELENTRIX"
+  },
+  {
+    "id": "5c9e17580719b541cd518228",
+    "campaign_name": "MENBRAIN",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "MULTRON"
+  },
+  {
+    "id": "5c9e17583acd850d5e90eeb9",
+    "campaign_name": "XSPORTS",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "TRANSLINK"
+  },
+  {
+    "id": "5c9e1758f76ae223d36ea524",
+    "campaign_name": "AQUAZURE",
+    "type_of": "CONNECTOR",
+    "company_name": "MAXEMIA"
+  },
+  {
+    "id": "5c9e1758378a8a0859c1295d",
+    "campaign_name": "FUELTON",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "STEELTAB"
+  },
+  {
+    "id": "5c9e1758b89dd7391d80d5c3",
+    "campaign_name": "ZOLARITY",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "EARGO"
+  },
+  {
+    "id": "5c9e175883d9463180b6d11f",
+    "campaign_name": "COGENTRY",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "QUILCH"
+  },
+  {
+    "id": "5c9e1758699ca6689438bf3a",
+    "campaign_name": "GRAINSPOT",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "ENERSAVE"
+  },
+  {
+    "id": "5c9e17589f679d4f0c5e3f43",
+    "campaign_name": "CORPORANA",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "COMVEY"
+  },
+  {
+    "id": "5c9e17586c97166bb062a852",
+    "campaign_name": "PIVITOL",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "COLUMELLA"
+  },
+  {
+    "id": "5c9e175806240de73b75cac4",
+    "campaign_name": "ZENSOR",
+    "type_of": "SMS CONNECTOR",
+    "company_name": "NORSUP"
+  },
+  {
+    "id": "5c9e1758e3b9c4d1430a2e76",
+    "campaign_name": "ANIXANG",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "CENTICE"
+  },
+  {
+    "id": "5c9e17589bd172d7be41ec10",
+    "campaign_name": "ASSITIA",
+    "type_of": "GENERAL EMAIL",
+    "company_name": "APPLIDECK"
+  },
+  {
+    "id": "5c9e17586214f1a824d01a62",
+    "campaign_name": "ORBIFLEX",
+    "type_of": "SMART TRIGGER PUSH",
+    "company_name": "MUSANPOLY"
+  },
+  {
+    "id": "5c9e17585b18e86df5a430bc",
+    "campaign_name": "NIQUENT",
+    "type_of": "SMART TRIGGER EMAIL",
+    "company_name": "TETAK"
+  }
+]
